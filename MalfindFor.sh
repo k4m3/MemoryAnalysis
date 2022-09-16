@@ -1,6 +1,6 @@
 #!/bin/bash
 
-##Use --> $bash MalfindFor.sh file.vmem
+##Use --> $bash MalfindFor.sh fileWin.vmem
 
 file_path=$1
 
