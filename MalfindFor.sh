@@ -1,5 +1,6 @@
 #!/bin/bash
 
+##Modo de usar $bash MalfindFor.sh file_path profile
 file_path=$1
 profile=$2
 
